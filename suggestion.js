@@ -1,0 +1,17 @@
+let suggestion = [
+	'Channel',
+	'Codinglab',
+	'CodingNepal',
+	'Youtube',
+	'Youtuber',
+	'Blogger',
+	'Bollywood',
+	'Vlogger',
+	'Vechiles',
+	'Facebook',
+	'Freelancer',
+	'Designer',
+	'Developer',
+	'Web Master',
+	'Web ful stack',
+];
